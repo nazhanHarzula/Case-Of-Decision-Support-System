@@ -7,4 +7,4 @@ Project ini melakukan berbagai proses sistem pendukung keputusan pada berbagai k
 * Metode Simple Multi Attribute Rating Technique (SMART)
 * Metode Weighted Sum Model (WSM)
 
-File yang ada memberikan beberapa kasus simpel dan datasetnya berekstensi xlsx
+File yang ada memberikan beberapa kasus simpel dan datasetnya berekstensi xlsx. Proses perhitungan hingga hasil juga terdokumentasi ke beberapa file untuk mengetahui seberapa jauh sistem telah berhasil ataupun mengetahui pola perhitungan yang ada.
